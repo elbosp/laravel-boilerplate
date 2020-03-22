@@ -1,0 +1,10 @@
+.msha_toast
+{
+    width: 330px !important;
+    background-color: aliceblue !important;
+}
+
+.msha_toast_container
+{
+    top: 125px !important;
+}
